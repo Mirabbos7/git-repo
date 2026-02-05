@@ -1,7 +1,7 @@
-string 1
-string 2
-string 3
-string 4
+string 1 another change
+string 2 another change
+string 3 line 3 was changed
+string 4 line 3 was changed
 string 5
 string 6
 string 7
