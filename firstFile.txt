@@ -2,8 +2,8 @@ string 1 another change
 string 2 another change
 string 3 line 3 was changed
 string 4 line 3 was changed
-string 5
-string 6
+string 5 change in another folder
+string 6 change in another folder
 string 7
 string 8
 string 9
